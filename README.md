@@ -1,1 +1,2 @@
-# Attack-Graphs-for-the-Cloud
+# AG4C
+Attack Graphs for the Cloud.
