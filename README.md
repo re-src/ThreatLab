@@ -1,2 +1,2 @@
-# AG4C
-Attack Graphs for the Cloud is a prototype to model cloud security using probabilistic attack graph representations
+# ThreatLab
+ThreatLab is a prototype to model cloud security using probabilistic attack graph representations
